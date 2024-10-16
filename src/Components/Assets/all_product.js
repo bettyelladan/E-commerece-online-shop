@@ -230,7 +230,7 @@ let all_product = [
   },
   {
     id: 25,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Lemon Blue Soft Material Hoodie",
     category: "kid",
     image: p25_img,
     new_price: 85.0,
@@ -238,7 +238,7 @@ let all_product = [
   },
   {
     id: 26,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Black Jumper Soft Material Hoodie ",
     category: "kid",
     image: p26_img,
     new_price: 85.0,
@@ -246,7 +246,7 @@ let all_product = [
   },
   {
     id: 27,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Strip Hoodie",
     category: "kid",
     image: p27_img,
     new_price: 85.0,
@@ -254,7 +254,7 @@ let all_product = [
   },
   {
     id: 28,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Green Crewneck",
     category: "kid",
     image: p28_img,
     new_price: 85.0,
@@ -262,7 +262,7 @@ let all_product = [
   },
   {
     id: 29,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Stripped Zip-Up Jacket",
     category: "kid",
     image: p29_img,
     new_price: 85.0,
@@ -270,7 +270,7 @@ let all_product = [
   },
   {
     id: 30,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Olive Green Winter Coat",
     category: "kid",
     image: p30_img,
     new_price: 85.0,
@@ -278,7 +278,7 @@ let all_product = [
   },
   {
     id: 31,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Zip-Up Jean Jacket",
     category: "kid",
     image: p31_img,
     new_price: 85.0,
@@ -286,7 +286,7 @@ let all_product = [
   },
   {
     id: 32,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Blue Long Sleeve Tshirt",
     category: "kid",
     image: p32_img,
     new_price: 85.0,
